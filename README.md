@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Tourahi/Tourahi/blob/master/public/Error.gif" alt="animated" />
-</p>
-
 <br>
 
-<h1 align="left">Welcome</h1>
+<h1 align="left">Hello and welcome</h1>
 
 <br>
 
