@@ -1,9 +1,5 @@
 <br>
 
-<iframe src="https://giphy.com/embed/9gjNtEX1JwcyA" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cakeday-tried-res-9gjNtEX1JwcyA">via GIPHY</a></p>
-
-<br>
-
 <h1 align="left">Welcome</h1>
 
 <br>
