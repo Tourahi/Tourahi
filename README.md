@@ -1,3 +1,5 @@
+![Alt text](https://github.com/Tourahi/Tourahi/blob/master/public/Error.gif)
+
 <br>
 
 <h1 align="left">Welcome</h1>
