@@ -1,4 +1,8 @@
-![Alt text](https://github.com/Tourahi/Tourahi/blob/master/public/Error.gif)
+```html
+<p align="center">
+  <img src="https://github.com/Tourahi/Tourahi/blob/master/public/Error.gif" alt="animated" />
+</p>
+```
 
 <br>
 
