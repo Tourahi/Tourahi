@@ -4,7 +4,7 @@
 
 <br>
 
-[![Tourahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tourahi&show_icons=true&theme=dark)](https://github.com/Tourahi/github-readme-stats)
+![Tourahi's GitHub stats](https://raw.githubusercontent.com/Tourahi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 -  📕 [Blog](https://marodungeon.neocities.org)
 -  📧 tourahi.amine@gmail.com
