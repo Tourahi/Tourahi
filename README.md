@@ -9,5 +9,8 @@
 </div
 
 
-<br/>  
-📧 tourahi.amine@gmail.com
+<br/> 
+ <div id="header" align="center">
+  📧 tourahi.amine@gmail.com
+</div>
+
