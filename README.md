@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/static/v1?label=Blog&message=marodungeon&color=A25B15" alt="Blog Badge"/>
   </a>
 </div
--  📧 tourahi.amine@gmail.com
 
 
+<br/>  
+📧 tourahi.amine@gmail.com
