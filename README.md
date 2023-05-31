@@ -8,9 +8,7 @@
   </a>
 </div>
 
-<div id="" align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Tourahi&theme=dark&border_radius=3.7)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tourahi&theme=dark&border_radius=3.7)](https://git.io/streak-stats)
 
 <br/> 
  <div id="header" align="center">
