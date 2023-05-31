@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<a href="https://git.io/streak-stats">
+<a align="center" href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=Tourahi&theme=dark&border_radius=3.7" />
 </a>
 <br/> 
