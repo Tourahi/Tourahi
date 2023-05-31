@@ -6,8 +6,11 @@
   <a href="https://marodungeon.neocities.org/">
     <img src="https://img.shields.io/static/v1?label=Blog&message=marodungeon&color=A25B15" alt="Blog Badge"/>
   </a>
-</div
+</div>
 
+<div id="badges" align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Tourahi&theme=dark&border_radius=3.7)](https://git.io/streak-stats)
+</div>
 
 <br/> 
  <div id="header" align="center">
