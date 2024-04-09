@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="Kerbal Space Program">
-    <img src="https://img.shields.io/static/v1?label=Blog&message=Blog&color=A25B15" alt="Blog Badge"/>
+  <a href="https://atblog.neocities.org/">
+    <img src="https://img.shields.io/static/v1?label=Blog&message=atBlog&color=A25B15" alt="Blog Badge"/>
   </a>
 </div>
 <br/> 
