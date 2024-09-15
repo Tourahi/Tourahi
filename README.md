@@ -13,7 +13,7 @@
  <div id="header" align="center">
   📧 tourahi.amine@gmail.com
 </div>
-# Current Projects
+<h2>Current Projects</h2>
 
 * MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab)
 * Optibits : 2D game Engine (C++) [Opti](https://github.com/Tourahi/Optibits)
