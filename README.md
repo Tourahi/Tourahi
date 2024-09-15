@@ -13,4 +13,9 @@
  <div id="header" align="center">
   📧 tourahi.amine@gmail.com
 </div>
+# Current Projects
+
+* MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab)
+* Optibits : 2D game Engine (C++) [Opti](https://github.com/Tourahi/Optibits)
+* Essence : A framework for Desktop apps (C++) (Linux/Win)
 
