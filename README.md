@@ -8,14 +8,18 @@
     <img src="https://img.shields.io/static/v1?label=Blog&message=atBlog&color=A25B15" alt="Blog Badge"/>
   </a>
 </div>
-
 <br/> 
+
  <div id="header" align="center">
   📧 tourahi.amine@gmail.com
 </div>
 <h2>Current Projects</h2>
 
-* MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab)
-* Optibits : 2D game Engine (C++) [Opti](https://github.com/Tourahi/Optibits)
-* Essence : A framework for Desktop apps (C++) (Linux/Win)
+* In development:
+  * MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab)
+    * MBox2D - 2D collision
+    * MFrames - LoveFrames revamp targeted towards rogue-like games 
+  * Optibits : 2D game Engine (C++) [Opti](https://github.com/Tourahi/Optibits)
 
+* Maintaining:
+  * Howl Editor fork
