@@ -14,8 +14,7 @@
   📧 tourahi.amine@gmail.com
 </div>
 <h2>Current Projects</h2>
-* Currently working on:
-  * Nelua syntax highlighting bundle for howl [Howl-nelua](https://github.com/MoonGameLab/howl/tree/nelua-bundle)
+<b>Currently working on:</b> Nelua syntax highlighting bundle for howl [Howl-nelua](https://github.com/MoonGameLab/howl/tree/nelua-bundle)
   
 * In development:
   * MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab)
