@@ -16,7 +16,7 @@
 <h2>Current Projects</h2>
 <b>Currently focusing on:</b> 
 
-​	+ Nelua syntax highlighting bundle for howl [Howl-nelua](https://github.com/MoonGameLab/howl/tree/nelua-bundle)
+​	+ New Engine structure
 
 * In development:
   * MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab)
