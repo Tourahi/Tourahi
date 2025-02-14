@@ -14,15 +14,8 @@
   📧 tourahi.amine@gmail.com
 </div>
 <h2>Current Projects</h2>
-<b>Currently focusing on:</b> 
-
-​	+ New Engine structure
-
 * In development:
-  * MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab) <ON-HOLD>
-    * MBox2D - 2D collision
-    * MFrames - LoveFrames revamp targeted towards rogue-like games 
-  * Optibits : 2D game Engine (C++) [Opti](https://github.com/Tourahi/Optibits) <Structure study timeframe [Until March 14th 2025]>
+  * Projects  [Current](https://github.com/Tourahi?tab=projects)
   
 * Maintaining:
   * Howl Editor fork
