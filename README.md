@@ -14,7 +14,7 @@
   📧 tourahi.amine@gmail.com
 </div>
 <h2>Current Projects</h2>
-[Current](https://github.com/Tourahi?tab=projects)
-  
+[See Projects](https://github.com/Tourahi?tab=projects)
+
 * Maintaining:
   * Howl Editor fork
