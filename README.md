@@ -20,4 +20,4 @@
 <h2>Maintaining</h2>
 
 * [MoonGameLab](https://github.com/MoonGameLab) 
-* Howl Editor fork
+* [Howl Editor fork](https://github.com/Tourahi/howl)
