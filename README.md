@@ -19,10 +19,10 @@
 ​	+ New Engine structure
 
 * In development:
-  * MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab)
+  * MGL : 2D Centred framework (MonoGame/Love2D)  [MGL](https://github.com/MoonGameLab) <ON-HOLD>
     * MBox2D - 2D collision
     * MFrames - LoveFrames revamp targeted towards rogue-like games 
-  * Optibits : 2D game Engine (C++) [Opti](https://github.com/Tourahi/Optibits)
+  * Optibits : 2D game Engine (C++) [Opti](https://github.com/Tourahi/Optibits) <Structure study timeframe [Until March 14th 2025]>
   
 * Maintaining:
   * Howl Editor fork
