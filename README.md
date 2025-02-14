@@ -19,5 +19,5 @@
 
 <h2>Maintaining</h2>
 
-* MGL
+* [MoonGameLab](https://github.com/MoonGameLab) 
 * Howl Editor fork
