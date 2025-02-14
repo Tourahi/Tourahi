@@ -17,5 +17,7 @@
 
 [See Projects](https://github.com/Tourahi?tab=projects)
 
-* Maintaining:
-  * Howl Editor fork
+<h2>Maintaining</h2>
+
+* MGL
+* Howl Editor fork
