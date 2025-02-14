@@ -15,7 +15,7 @@
 </div>
 <h2>Current Projects</h2>
 * In development:
-  * Projects  [Current](https://github.com/Tourahi?tab=projects)
+  * Projects ->  [Current Projects](https://github.com/Tourahi?tab=projects)
   
 * Maintaining:
   * Howl Editor fork
