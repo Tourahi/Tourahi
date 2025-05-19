@@ -15,7 +15,7 @@
 </div>
 <h2>Current Projects</h2>
 
-[See Projects](https://github.com/Tourahi?tab=projects)
+Optibits
 
 <h2>Maintaining</h2>
 
