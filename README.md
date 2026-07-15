@@ -16,4 +16,4 @@
 
 
 <h1> Welcome Traveler. This repo aka shrine aka monument has been moved to another castle.</h1>
-<h2> Visit it here at your own peril: [WindFish](https://codeberg.org/Wind_Fish). </h2>
+<h2> Visit it here at your own peril: </h2> <a href="https://codeberg.org/Wind_Fish" target="_blank">WindFish</a>
