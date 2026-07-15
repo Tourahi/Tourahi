@@ -13,11 +13,7 @@
  <div id="header" align="center">
   📧 tourahi.amine@gmail.com
 </div>
-<h2>Current Projects</h2>
 
-Optibits
 
-<h2>Maintaining</h2>
-
-* [MoonGameLab](https://github.com/MoonGameLab) 
-* [Howl Editor fork](https://github.com/MoonGameLab/howl)
+<h1> Welcome Traveler. This repo aka shrine aka monument has been moved to another castle.</h1>
+<h2> Visit it here at your own peril <a href="[https://codeberg.org/Wind_Fish](Wind_Fish)"> </a> </h2>
