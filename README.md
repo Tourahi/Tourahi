@@ -17,3 +17,5 @@
 
 ### Welcome Traveler. This repo aka shrine aka monument has been moved to another castle.
 #### Visit it here at your own peril: <a href="https://codeberg.org/Wind_Fish" target="_blank">WindFish</a>
+
+##### No new repositories will be created here visit above link to see new projects.
