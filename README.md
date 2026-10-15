@@ -11,11 +11,14 @@
 <br/> 
 
  <div id="header" align="center">
-  📧 tourahi.amine@gmail.com
+    tourahi.amine@gmail.com
 </div>
 
 
-### Welcome Traveler. This repo aka shrine aka monument has been moved to another castle.
-#### Visit it here at your own peril: <a href="https://codeberg.org/Wind_Fish" target="_blank">WindFish</a>
+### Welcome Traveler. This repository has been moved to another castle.
+#### Visit it: <a href="https://codeberg.org/Wind_Fish" target="_blank">WindFish</a>
 
-##### No new repositories will be created here visit above link to see new projects.
+
+
+> [!NOTE]
+> No new repositories will be created here visit <a href="https://codeberg.org/Wind_Fish" target="_blank">WindFish</a> to see my new projects :)
